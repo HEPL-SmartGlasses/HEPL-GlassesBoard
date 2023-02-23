@@ -1,0 +1,6 @@
+# ignore ALL .log files
+# *.log
+
+# ignore ALL files in History and __Preview
+History/
+__Preview/
