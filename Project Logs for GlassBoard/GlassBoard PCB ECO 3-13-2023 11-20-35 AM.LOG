@@ -1,0 +1,43 @@
+Added Component: Designator=TP1(Testpoint)
+Added Component: Designator=TP2(Testpoint)
+Added Component: Designator=TP3(Testpoint)
+Added Component: Designator=TP4(Testpoint)
+Added Component: Designator=TP5(Testpoint)
+Added Component: Designator=TP6(Testpoint)
+Added Component: Designator=TP7(Testpoint)
+Added Component: Designator=TP8(Testpoint)
+Added Component: Designator=TP9(Testpoint)
+Added Component: Designator=TP10(Testpoint)
+Added Component: Designator=TP11(Testpoint)
+Added Component: Designator=TP12(Testpoint)
+Added Component: Designator=TP13(Testpoint)
+Added Component: Designator=TP14(Testpoint)
+Added Component: Designator=TP15(Testpoint)
+Added Component: Designator=TP16(Testpoint)
+Added Component: Designator=TP17(Testpoint)
+Added Component: Designator=TP18(Testpoint)
+Added Component: Designator=TP19(Testpoint)
+Added Component: Designator=TP20(Testpoint)
+Add Pin To Net: Unknown Pin: Pin TP2-1
+Add Pin To Net: Unknown Pin: Pin TP3-1
+Add Pin To Net: Unknown Pin: Pin TP12-1
+Added Member To Class: ClassName=GlassBoard Member=Component TP1 TP
+Added Member To Class: ClassName=GlassBoard Member=Component TP2 TP
+Added Member To Class: ClassName=GlassBoard Member=Component TP3 TP
+Added Member To Class: ClassName=GlassBoard Member=Component TP4 TP
+Added Member To Class: ClassName=GlassBoard Member=Component TP5 TP
+Added Member To Class: ClassName=GlassBoard Member=Component TP6 TP
+Added Member To Class: ClassName=GlassBoard Member=Component TP7 TP
+Added Member To Class: ClassName=GlassBoard Member=Component TP8 TP
+Added Member To Class: ClassName=GlassBoard Member=Component TP9 TP
+Added Member To Class: ClassName=GlassBoard Member=Component TP10 TP
+Added Member To Class: ClassName=GlassBoard Member=Component TP11 TP
+Added Member To Class: ClassName=GlassBoard Member=Component TP12 TP
+Added Member To Class: ClassName=GlassBoard Member=Component TP13 TP
+Added Member To Class: ClassName=GlassBoard Member=Component TP14 TP
+Added Member To Class: ClassName=GlassBoard Member=Component TP15 TP
+Added Member To Class: ClassName=GlassBoard Member=Component TP16 TP
+Added Member To Class: ClassName=GlassBoard Member=Component TP17 TP
+Added Member To Class: ClassName=GlassBoard Member=Component TP18 TP
+Added Member To Class: ClassName=GlassBoard Member=Component TP19 TP
+Added Member To Class: ClassName=GlassBoard Member=Component TP20 TP

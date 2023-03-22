@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=3V3 Pin=TP1-TP
+Removed Pin From Net: NetName=GND Pin=TP2-TP
+Add Pin To Net: Unknown Pin: Pin TP2-1
+Add Pin To Net: Unknown Pin: Pin TP3-1
+Add Pin To Net: Unknown Pin: Pin TP12-1
